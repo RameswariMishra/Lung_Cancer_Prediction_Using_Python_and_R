@@ -97,7 +97,7 @@ Results demonstrate the feasibility of using ML techniques to support early risk
 - Environment: Jupyter Notebook (Python + R kernel)
 
 ## Repository Structure
-`` 
+```
 lung-cancer-prediction/
 ├── notebooks/
 │   └── Lung_Cancer_Prediction_Using_Python_And_R.ipynb
@@ -106,7 +106,7 @@ lung-cancer-prediction/
 ├── requirements.txt
 └── .gitignore
 
-``
+```
 ## How to Run the Project
 
 ### Clone the repository
